@@ -1,0 +1,8 @@
+[
+  "test_Flipkart.py::Test_search_electronics::test_flipkart[get_data0]",
+  "test_Flipkart.py::Test_search_electronics::test_flipkart[get_data1]",
+  "test_Groceries.py::Test_Groceries::test_Groceries",
+  "test_Groceries.py::Test_Groceries::test_Groceries[get_data0]",
+  "test_Groceries.py::Test_Groceries::test_Groceries[get_data1]",
+  "test_Groceries.py::test_Groceries"
+]
