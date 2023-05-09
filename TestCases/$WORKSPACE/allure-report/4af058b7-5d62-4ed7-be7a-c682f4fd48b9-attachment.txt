@@ -1,0 +1,7 @@
+INFO     <module>:BasePage.py:20 Clicking on locatorsearch_btn_XPATH
+INFO     <module>:BasePage.py:29 Sending inpuut keys to elementtype_search_XPATHEntered the value as, Laptop
+INFO     <module>:BasePage.py:20 Clicking on locatorselect_product_XPATH
+INFO     <module>:BasePage.py:20 Clicking on locatorsearch_btn_XPATH
+INFO     <module>:BasePage.py:20 Clicking on locatorsearch_btn_XPATH
+INFO     <module>:BasePage.py:29 Sending inpuut keys to elementtype_search_XPATHEntered the value as, Laptop
+INFO     <module>:BasePage.py:20 Clicking on locatorselect_product_XPATH
