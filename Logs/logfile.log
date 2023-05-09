@@ -89,3 +89,13 @@
 2023-05-09 21:14:48,083 : INFO : <module> : Clicking on locatorsearch_btn_XPATH
 2023-05-09 21:14:49,485 : INFO : <module> : Sending inpuut keys to elementtype_search_XPATHEntered the value as, Laptop
 2023-05-09 21:14:51,411 : INFO : <module> : Clicking on locatorselect_product_XPATH
+2023-05-09 23:55:19,619 : INFO : <module> : Clicking on locatorgroceries_btn_XPATH
+2023-05-09 23:55:22,898 : INFO : <module> : Clicking on locatorsearch_grc_XPATH
+2023-05-09 23:55:25,904 : INFO : <module> : Sending inpuut keys to elementtype_grc_XPATHEntered the value as, Peanut
+2023-05-09 23:55:27,243 : INFO : <module> : Clicking on locatorclick_prdct_XPATH
+2023-05-09 23:55:34,344 : INFO : <module> : Getting text from selected locatorvalidate_XPATH
+2023-05-09 23:55:47,319 : INFO : <module> : Clicking on locatorgroceries_btn_XPATH
+2023-05-09 23:55:48,819 : INFO : <module> : Clicking on locatorsearch_grc_XPATH
+2023-05-09 23:55:50,081 : INFO : <module> : Sending inpuut keys to elementtype_grc_XPATHEntered the value as, Cooking Oil
+2023-05-09 23:55:51,173 : INFO : <module> : Clicking on locatorclick_prdct_XPATH
+2023-05-09 23:56:03,841 : INFO : <module> : Getting text from selected locatorvalidate_XPATH

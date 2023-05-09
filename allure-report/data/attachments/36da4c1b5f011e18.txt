@@ -1,0 +1,3 @@
+[32mINFO    [0m <module>:BasePage.py:20 Clicking on locatorsearch_btn_XPATH
+[32mINFO    [0m <module>:BasePage.py:29 Sending inpuut keys to elementtype_search_XPATHEntered the value as, Laptop
+[32mINFO    [0m <module>:BasePage.py:20 Clicking on locatorselect_product_XPATH
