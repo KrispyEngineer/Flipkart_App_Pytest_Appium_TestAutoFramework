@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":2,"items":[{"uid":"3774d8315a1af0ccaa668890d3104657","name":"test_Flipkart","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"fc940b90cd3e65fd24900795fc22124a","name":"test_Groceries","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

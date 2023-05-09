@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 09 18:08:08 IST 2023","Tue May 09 18:08:25 IST 2023","17578","","test_Groceries","Test_Groceries","","","test_Groceries[get_data1]",""
+"passed","Tue May 09 18:07:44 IST 2023","Tue May 09 18:07:55 IST 2023","10609","","test_Groceries","Test_Groceries","","","test_Groceries[get_data0]",""
+"passed","Tue May 09 18:05:53 IST 2023","Tue May 09 18:06:09 IST 2023","16437","","test_Flipkart","Test_search_electronics","","","test_flipkart[get_data0]",""
+"passed","Tue May 09 18:06:53 IST 2023","Tue May 09 18:07:00 IST 2023","7332","","test_Flipkart","Test_search_electronics","","","test_flipkart[get_data1]",""
